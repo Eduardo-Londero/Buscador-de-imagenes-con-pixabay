@@ -1,0 +1,4 @@
+Buscador de imagenes en pixabay - async await
+
+Aplicacion que utilizando una palabra podemos buscar imagenes 
+consumiendo la api de pixabay. Ademas tiene paginacion.
